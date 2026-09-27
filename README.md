@@ -1,2 +1,7 @@
-# depois-da-eternidade-voce
-Depois da Eternidade, Você — light novel de Caio e Lia.
+# Depois da Eternidade, Você
+
+Site de leitura da light novel.
+
+https://robson-c.github.io/depois-da-eternidade-voce/
+
+Volume 1: cinco capítulos disponíveis.
