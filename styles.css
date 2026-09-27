@@ -11,3 +11,8 @@
 @media(max-width:760px){.cover-title{font-size:25px}.cover-title small{font-size:23px}.brand-title{font-size:18px}}
 @media(max-width:560px){.topbar{flex-wrap:wrap;padding:16px 0;gap:12px}.toplinks{width:100%;justify-content:space-between}.hero h1{font-size:44px;letter-spacing:-1.5px}.book-cover{width:52%;padding:20px 17px}.cover-title{font-size:22px}.cover-title small{font-size:22px}.cover-label{letter-spacing:1px}.reader-bar .topbar{padding:12px 0;gap:8px}.reader-bar .brand-title{font-size:12px;max-width:115px}.reader-controls{margin-left:auto}.reader-bar .brand{gap:7px}.book-art{aspect-ratio:1.3}}
 @media(max-width:360px){.cover-title{font-size:19px}.cover-title small{font-size:20px}.cover-label,.cover-bottom{font-size:7px}}
+
+/* Capa oficial aprovada em DEC-013, exibida integralmente. */
+.official-cover{margin:0;justify-self:center;width:100%;max-width:360px}.official-cover img{display:block;width:100%;height:auto;border-radius:5px;box-shadow:0 16px 36px #17271b25}
+@media(max-width:760px){.official-cover{max-width:310px}}
+@media(max-width:560px){.official-cover{max-width:300px;margin:4px auto 0}}
